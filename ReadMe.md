@@ -1,7 +1,6 @@
 # Web Server in Docker
 This repository contains a Dockerfile to build a custom web server image.
 
-![System Architecture Diagram](https://github.com/aakashgoel2002/Docker-Web-Server/blob/main/SA-Diagram.png?raw=true)
 <img src="https://github.com/aakashgoel2002/Docker-Web-Server/blob/main/SA-Diagram.png" alt="System Architecture Diagram" style="width:250px;"/>
 
 
